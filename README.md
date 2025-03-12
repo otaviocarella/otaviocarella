@@ -6,7 +6,7 @@
   
   ![GitHub Activity](https://github-readme-stats.vercel.app/api?username=otaviocarella&show_icons=true&theme=radical&hide_border=true&count_private=true)
   
-  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=otaviocarella&theme=radical&hide_border=true" />
 </div>
 
 ## 🎮 Minha Jornada na Programação
